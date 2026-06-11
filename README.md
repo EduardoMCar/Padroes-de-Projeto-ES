@@ -8,7 +8,7 @@ O padrão Singleton resolve o problema de quando se necessita ter apenas uma ins
 **Implementação** : Realizei a implementação simples pensando na casse "Condominio" de unm sistema prediário. onde é evidente que os dados legais do condominio para qual essa aplicação é feita são absolutos.
 
 ### *a explicação do código esta na propria implementação* 
----
+
 ---
 
 
@@ -19,7 +19,7 @@ O padrão Singleton resolve o problema de quando se necessita ter apenas uma ins
 **Implementação** : 
 
 ### *a explicação do código esta na propria implementação* 
----
+
 ---
 
 ## Padrão de Comportamental : **TELCRANAGEM**
@@ -29,5 +29,5 @@ O padrão Singleton resolve o problema de quando se necessita ter apenas uma ins
 **Implementação** : 
 
 ### *a explicação do código esta na propria implementação* 
----
+
 ---
