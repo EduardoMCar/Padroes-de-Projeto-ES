@@ -29,7 +29,6 @@ O padrão Facede facilita a interação com um conjunto grande de classes fornec
 ### *a explicação do código esta na propria implementação* 
 
 ---
----
 
 ## Padrão de Comportamental : **Observer**
 O padrão Observer permite que objetos sejam notificados, utilizei ele como forma de entregar notificações de novas encomendas ao moradores.
